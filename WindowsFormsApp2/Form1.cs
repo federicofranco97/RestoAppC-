@@ -51,6 +51,12 @@ namespace WindowsFormsApp2
 
         private void button2_Click(object sender, EventArgs e)
         {
+            String meseroNombre = txtMesero.Text;
+            if(meseroNombre.Equals("No tiene"))
+            {
+                MessageBox.Show("No tiene mesero asignado!","Error");
+                return;
+            }
             int id;
             double valor;
             try

@@ -8,3 +8,13 @@ C:\Users\Fede\Documents\ReposVisualStudio\WindowsFormsApp2\WindowsFormsApp2\obj\
 C:\Users\Fede\Documents\ReposVisualStudio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RestoApp.csproj.CoreCompileInputs.cache
 C:\Users\Fede\Documents\ReposVisualStudio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RestoApp.exe
 C:\Users\Fede\Documents\ReposVisualStudio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RestoApp.pdb
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\bin\Debug\RestoApp.exe.config
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\bin\Debug\RestoApp.exe
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\bin\Debug\RestoApp.pdb
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\RestoApp.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\RestoApp.Properties.Resources.resources
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\RestoApp.csproj.GenerateResource.cache
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\RestoApp.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\RestoApp.exe
+C:\Users\Fede\Documents\ReposVisualStudio\RestoApp\WindowsFormsApp2\obj\Debug\RestoApp.pdb
